@@ -1,4 +1,4 @@
-# 💻 Edwrd
+# 💻 Edward Feliciano
 
 **Computer Science Student | Aspiring Software Developer**
 
